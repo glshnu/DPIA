@@ -11,5 +11,6 @@ Das [Cloud Kompendium](https://www.microsoft.com/de-de/download/details.aspx?id=
 [Microsoft Leitfaden]<https://docs.microsoft.com/de-de/compliance/regulatory/gdpr-dpia-office365>  
 [Microsoft 365 Dienste, Excel, Englisch]<https://www.microsoft.com/download/details.aspx?id=102395>  
 [Vorlage, Word, Englisch]<https://www.microsoft.com/download/details.aspx?id=102398>  
+[Neue Maßnahmen zum Schutz von Daten]<https://news.microsoft.com/de-de/neue-massnahmen-zum-schutz-von-daten/>  
 
 
